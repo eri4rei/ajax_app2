@@ -8,6 +8,6 @@
   color: gray;
 }
 
-div[date-check="true"]{
+div[data-check="true"] {
   background: #585555;
 }
